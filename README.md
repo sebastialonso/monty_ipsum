@@ -37,6 +37,11 @@ By requesting the header method, the module will return proper Ipsum for a secti
 ### `paragraph`
 Will return medium to long sentences of Ipsum. Recieves a Hash with a `:count` key. The returned paragraph will be a concatenation of `:count` different Ipsums.
 
+~~~
+> MontyIpsum.paragraph(count: 2)
+=> " Now the Japanese have a man who can bend his leg back over his head and back again with every single step. While the Israelis... ah, here's the coffee. Good morning. I'm sorry to have kept you waiting, but I'm afraid my walk has become rather sillier recently, and so it takes me rather longer to get to work."
+~~~
+
 
 ## Todo
 * Add more quotes
