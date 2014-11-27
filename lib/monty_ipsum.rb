@@ -23,13 +23,13 @@ module MontyIpsum
     "He has a wife, you know. You know what she's called? She's called Incontinentia...Incontinentia Buttocks.",
     "Now, you listen here! He's not the Messiah. He's a very naughty boy!",
     "Well...lets move on to our guest who not only lives in Essex but also speaks only the ends of words. Mr. Ohm Ith.",
-    "Well, this is largely as I predicted, except that the Silly Party won. I think this is largely due to the number of votes cast. Gerald?"
+    "Well, this is largely as I predicted, except that the Silly Party won. I think this is largely due to the number of votes cast. Gerald?",
     "Here at Luton it's a three-cornered fight between Alan Jones - Sensible Party, in the middle, Tarquin Fin- tim- lim- bim- whin- bim- lim- bus- stop- F'tang- F'tang- Olè- Biscuitbarrel - Silly Party, and Kevin Phillips-Bong, the Slightly Silly candidate.",
     "Hello, from Harpenden. This is a key seat because in addition to the official Silly candidate there is an independent Very Silly candidate who may split the silly vote.",
     "Well, I've just heard from Luton that my auntie's ill, er, possibly, possibly gastro-enteritis.",
     "Can I just add at this point that this is in fact the second time I've ever been on television?",
     "Well it's a straight fight here at Leicester...On the left of the Returning Officer (camera shoes grey-suited man) you can see Arthur Smith, the Sensible candidate and his agent, (camera pans to silly people) and on the other side is the silly candidate Jethro Walrustitty with his agent and his wife.",
-    "I don't want to talk to you no more, you empty-headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!."
+    "I don't want to talk to you no more, you empty-headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!.",
     "Listen, strange women lyin' in ponds distributin' swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.",
     "Good morning. I'm sorry to have kept you waiting, but I'm afraid my walk has become rather sillier recently, and so it takes me rather longer to get to work.",
     "The very real problem is one of money. I'm afraid that the Ministry of Silly Walks is no longer getting the kind of support it needs. You see there's Defense, Social Security, Health, Housing, Education, Silly Walks ... they're all supposed to get the same. But last year, the Government spent less on the Ministry of Silly Walks than it did on National Defence. Now we get £348,000,000 a year, which is supposed to be spent on all our available products.",

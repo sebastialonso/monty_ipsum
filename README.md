@@ -18,20 +18,34 @@ Or install it yourself as:
 
 ## Usage
 
-Call the module and request the `ipsum` method
+### `ipsum`
+Call the module and request the `ipsum` method. This will return a random Ipsum element in the set of quotes.
 
 ~~~
 > MontyIpsum.ipsum
 => "And now, for something completely different."
 ~~~
 
+### `header`
+By requesting the header method, the module will return proper Ipsum for a section title or header.
+
+~~~
+> MontyIpsum.header
+=> "And so on, and so on, and so on."
+~~~
+
+### `paragraph`
+Will return medium to long sentences of Ipsum. Recieves a Hash with a `:count` key. The returned paragraph will be a concatenation of `:count` different Ipsums.
+
+
 ## Todo
 * Add more quotes
 * Build category system following something like:
-  * Short One-liners (for header elements)
-  * Long One-liners (for paragraph openers and/or quote elements)
+  * ~~Short One-liners (for header elements)~~
+  * ~~Long One-liners (for paragraph openers and/or quote elements)~~
   * Short Two-people Dialogs
-  * Long Monologs for paragraphs content (Malcom Peter Brain Telescope Adrian Umbrella....)
+  * ~~Long Monologs for paragraphs content (Malcom Peter Brain Telescope Adrian Umbrella....)~~
+  * Names for Quote/Recomendation Sections
 
 ## Contributing
 

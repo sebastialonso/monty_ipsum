@@ -1,1 +1,1 @@
-require 'spec_helper'
+require 'monty_ipsum'
